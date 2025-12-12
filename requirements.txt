@@ -25,3 +25,5 @@ statsmodels>=0.13.0
 # Utilities and Configuration
 requests>=2.25.0
 python-dotenv>=0.19.0
+
+pytorch>=0.0.0
